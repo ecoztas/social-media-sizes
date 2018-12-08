@@ -1,7 +1,7 @@
 # social-media-sizes
 
 ### Açıklama:
-Sosyal medya görsel boyutları .psd dosyaları barınmaktadır.
+Sosyal medya görsel boyutları `.psd` dosyaları barınmaktadır.
 
 Daha detaylı bilgi için blogumda yeralan [buradaki](http://emrecanoztas.com/sosyal-medya-gorsel-boyutlari/) yazıyı inceyebilirsiniz.
 
